@@ -26,27 +26,32 @@ Python 3
 
 Command Line Interface (CLI)
 
- How to Run the Program
-1. Clone the Repository
-git clone https://github.com/your-username/atm-simulation-system.git
-
-2. Navigate to the Project Folder
-cd atm-simulation-system
-
-3. Run the Program
+ How to Run the Programme
+ 
+ Navigate to the Project Folder
+ 
+ Run the Program
+ 
 python atm.py
 
 
 Make sure Python 3 is installed on your system.
 
  Default Login Credentials
+ 
 Field	Value
+
 PIN	9980
+
 Initial Balance	₹6574
+
  Project Structure
+ 
 atm-simulation-system/
+
 │
 ├── atm.py
+
 └── README.md
 
  Sample Operations
@@ -77,16 +82,23 @@ Learning menu-driven applications
 
  Preview
 ----- ATM MENU -----
+
 1. Balance Enquiry
-2. Deposit Cash
-3. Withdraw Cash
-4. Transaction History
-5. Change PIN
-6. Exit
+
+Deposit Cash
+
+ Withdraw Cash
+ 
+ Transaction History
+  
+Change Pin
+
+12. Exit
 
  Author
 
 Shemeem A
+
 Python Developer
 
  License
